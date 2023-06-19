@@ -4,7 +4,7 @@ import * as React from 'react'
 export default function DropdownContent () {
     return (
         <View>
-            <Text>Some amazing test</Text>
+            <Text>Some breaking test</Text>
         </View>
     );
 };
